@@ -70,5 +70,3 @@ if uploaded_file:
     st.image(image, caption="Uploaded Image", use_column_width=True)
     label = predictLabel(image)
     st.subheader(f"Prediction: {label}")
-    #st.progress(float(confidence))  # progress bar as confidence
-    #st.write(f"Model Confidence: {confidence.item()*100:.2f}%")
