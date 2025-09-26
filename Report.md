@@ -3,5 +3,5 @@ The model has some limitations, such as the unequal destribution of no-tumor and
 The classification report is in the colab notebook.
 Work destribution:
 Kareem Adel Abdellatif: data prepartaion, feature building, modeling, amd web deployment
-Link of the video: https://play.webvideocore.net/282acda2-3c5e-4c6a-8e1f-7023cc7bfb45
+Link of the video: https://screenrec.com/share/hQ8B6rk7At
 
